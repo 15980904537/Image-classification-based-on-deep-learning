@@ -1,0 +1,1 @@
+Epoch:  0, Precision: 5.02512563, Loss: 6.07493966

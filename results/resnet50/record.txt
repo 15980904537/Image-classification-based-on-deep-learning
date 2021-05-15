@@ -1,0 +1,1 @@
+Epoch:  0, train_Precision: 3.70719447, train_Loss: 4.21936897
