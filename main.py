@@ -20,7 +20,7 @@ from models.resnet import resnet50 as model
 # 参数设置
 parser = argparse.ArgumentParser()
 # 数据集路径
-parser.add_argument('--img_root_train', type=str, default= "./垃圾分类", help='whether to img root')
+parser.add_argument('--img_root_train', type=str, default= "./image", help='whether to img root')
 # 模型及数据存储路径
 parser.add_argument('--checkpoint_dir', type=str, default='./results/resnet50/', help='directory where model checkpoints are saved')
 # 网络选择

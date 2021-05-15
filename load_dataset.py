@@ -167,5 +167,5 @@ def collate_fn(batch):
     return torch.stack(imgs, 0), \
            label
 
-get_image_pd(img_root='./垃圾分类')
+get_image_pd(img_root='./image')
 
